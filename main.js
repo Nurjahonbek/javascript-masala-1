@@ -519,6 +519,119 @@
     
 // }
 
+//                                       BOOLING TIPI 
+
+// 6)
+
+// let A = 3,
+//     B = 5, 
+//     C = 7;
+// if (A <= B && B <= C) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 7)
+// let A = 2,
+//     B = 4, 
+//     C = 6;
+// if (B >= A && B <= C) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 8)
+//  let A = 7,
+//      B = 9; 
+// if (A % 2 != 0 && B % 2 != 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 9)
+// let A = 8; 
+// B = 11; 
+// if (A % 2 != 0 || B % 2 != 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 10)
+// let A = 6, 
+// B = 9;
+// if ((A % 2 != 0 && B % 2 == 0) || (A % 2 == 0 && B % 2 != 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 11)
+// let A = 4,
+//  B = 8; 
+// if ((A % 2 == 0 && B % 2 == 0) || (A % 2 != 0 && B % 2 != 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 12)
+// let A = 3,
+//   B = -1,
+//   C = 5; 
+// if (A >= 0 || B >= 0 || C >= 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 13)
+
+// let A = 1,
+//  B = 2,
+//  C = 3; 
+// if (A >= 0 && B >= 0 && C >= 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+
+// 14)
+// let A = 1,
+//  B = -2,
+//  C = -3; 
+// if ((A >= 0 && B <= 0 && C <= 0) || (B >= 0 && A <= 0 && C <= 0) || (C >= 0 && A <= 0 && B <= 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 15)
+
+// let A = 1,
+//  B = 2,
+//  C = -3; 
+// if ((A >= 0 && B >= 0 && C <= 0) || (A >= 0 && C >= 0 && B <= 0) || (B >= 0 && C >= 0 && A <= 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+// 16)
+
+// let x = 42; 
+// if (x >= 10 && x <= 99 && x % 2 == 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+
+
                                     // QOSHIMCHA MASALALAR
 
 // 1)Uchta sonning yig'indisi manfiy emas va ulardan hech bo'lmaganda bittasi 5 ga bo'linadi.
